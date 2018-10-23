@@ -13,10 +13,18 @@ or to the primary collaborators of the paper:
 * Jonggeol Na (jgna@kist.re.kr);
 * Seongeon Park (sungoun916@gmail.com).
 
-## Download
+## Setup
+
+### Obtaining
 
 * **Download**:   zipped archive  [BayesChemEng-master.zip](https://github.com/jihyunbak/BayesChemEng/archive/master.zip)
 * **Clone**: clone the repository from github: ```git clone https://github.com/jihyunbak/BayesChemEng.git```
+
+### Running
+
+* You need MATLAB with the {statistics and machine learning, neural network, curve fitting} toolboxes.
+* Code was developed using MATLAB R2016b, although older versions may also work. Please let us know if you have any issue with older releases.
+
 
 
 ## Example scripts
