@@ -13,6 +13,8 @@ Repository is maintained by Ji Hyun Bak (jhbak@kias.re.kr).
 _Industrial & Engineering Chemistry Research_. 
 [(link)](https://doi.org/10.1021/acs.iecr.9b01062)
 
+If you are only interested in the algorithm, the [document](doc/doc_alg.pdf) in this repository contains the relevant part of the supplementary material that is published with the main paper.
+
 
 ## Setup
 
