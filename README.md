@@ -4,14 +4,15 @@ BayesChemEng
 
 Matlab code for an effective inference method for analyzing costly experiments, often with multi-dimensional parameters, performed at multiple different settings (sets of design variables) and few repetitions.
 
-This code is intended to accompany a manuscript in preparation. The link to the reference paper will be added, as well as a supplementary material with details of the algorithm. For inquiries in the meantime, please send an email to:
+Repository is maintained by Ji Hyun Bak (jhbak@kias.re.kr).
 
-* Ji Hyun Bak (jhbak@kias.re.kr),
 
-or to the primary collaborators of the paper:
+#### Reference:
 
-* Jonggeol Na (jgna@kist.re.kr);
-* Seongeon Park (sungoun916@gmail.com).
+* Na J\*, Park S\*, Bak JH, Kim M, Lee D, Yoo Y, Kim I, Park J, Lee U, & Lee JM (2019). Bayesian inference of aqueous mineral carbonation kinetics for carbon capture and utilization. 
+_Industrial & Engineering Chemistry Research_. 
+[(link)](https://doi.org/10.1021/acs.iecr.9b01062)
+
 
 ## Setup
 
