@@ -42,5 +42,11 @@ We provide demo scripts to illustrate how the algorithm works.
 
 ### Multiple datasets
 
-* (to be added)
+* See `demo2_multi.m` for a similar example, but applied to multiple datasets. 
+In this case, there is one set of (hidden) parameters that defines the process being observed, 
+and two "experiments" are performed at two different design variables. 
+As you can see in the demo script, 
+our BayesChemEng package simply takes the multi-dataset collection as the input, 
+along with a set of interpretable options, 
+and takes care of the rest of posterior inference.
 
