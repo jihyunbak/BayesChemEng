@@ -4,7 +4,10 @@ BayesChemEng
 
 Matlab code for an effective inference method for analyzing costly experiments, often with multi-dimensional parameters, performed at multiple different settings (sets of design variables) and few repetitions.
 
-Repository is maintained by Ji Hyun Bak (jhbak@kias.re.kr).
+If you find a bug or have any question, you can either
+[create an issue](https://github.com/jihyunbak/BayesChemEng/issues/new) 
+or send an email.
+Repository is maintained by Ji Hyun Bak (jhbak@kias.re.kr). 
 
 
 #### Reference:
